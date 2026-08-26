@@ -6,6 +6,12 @@ The application is heavily stylized with a dark-mode, glassmorphism UI, floating
 
 ---
 
+![Dashboard](https://github.com/user-attachments/assets/64383293-f354-4cd4-8a27-da513f3665da)
+
+![Summary](https://github.com/user-attachments/assets/7e044d04-3c7d-41b2-8b78-e85f22e25691)
+
+
+
 ## Evaluation Criteria & Project Highlights
 
 ### 1. Problem-Solving Approach
